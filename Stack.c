@@ -1,6 +1,11 @@
+///Stack  implementation in C using Array.
+/*
+    @author: Nasir Islam Sujan
+*/
+
 #include<stdio.h>
 #include<stdlib.h> //exit()
-#include<stdbool.h>
+#include<stdbool.h> // bool
 
 #define max 5
 
