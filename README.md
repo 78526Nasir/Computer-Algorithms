@@ -8,6 +8,18 @@ All basic computer algorithm's implementation in C.
 * It is `LIFO (Last In First Out)` Data Structure
 * It serves collection of `element/objects`
 
+### Stack Operations
+**Principal Operations**:
+* `push()`
+* `pop()`
+    
+**Other Operations:**
+* `pip()`
+* `isEmpty()`
+* `isFull()`
+* `top() or peek()`
+* `getSize()`
+
 
 
 
