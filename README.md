@@ -20,7 +20,13 @@ All basic computer algorithm's implementation in C.
 * `top() or peek()`
 * `getSize()`
 
+### Stack In Real Life
 
+* `Undo` Mechanism in Computer.
+* Retrieve recently used object from cache.
+* Pile of plate or books.
+* Tennis ball Jar.
+* Wearing/removing Bangles.
 
 
 ![Stack_Image](https://github.com/78526Nasir/Computer-Algorithms/blob/master/images/animated-book-clipart-18.png)
