@@ -3,10 +3,13 @@
 All basic computer algorithm's implementation in C.
 
 ## Stack
-It is a `Linear Data Structure`
-It is a `Abstract Data Type`
-It is `LIFO (Last In First Out)` Data Structure
-It serves collection of `element/objects`
+  It is a `Linear Data Structure`
+
+  It is a `Abstract Data Type`
+
+  It is `LIFO (Last In First Out)` Data Structure
+
+  It serves collection of `element/objects`
 
 
 
