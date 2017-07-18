@@ -1,10 +1,10 @@
 // Stack Implementation in C using Array.
 
 #include<stdio.h>
-#include<stdlib.h>  // header file for exit and return function
+#include<stdlib.h>
 #define max 5
 
-int stack[max],top=-1;          // global variable
+int stack[max], top=-1;
 
 void push();
 int pop();
@@ -12,8 +12,8 @@ void disp();
 
 main()
 {
-    int w,r;        // w stand for your want and r for catch return value
-    for(;;)         // for infinite loop
+    int w,r;
+    for(;;)
     {
         printf("\n1. Push");
         printf("\n2. Pop");
