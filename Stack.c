@@ -136,10 +136,19 @@ bool isEmpty()
 
 void peek()
 {
-    printf("\n%d\n",stack[top]);
+    if(isEmpty())
+    {
+        printf("\nStack is Empty!\n");
+    }
+    else{
+        printf("\n%d\n",stack[top]);
+    }
 }
 
 int getSize()
 {
     return top+1;
 }
+
+
+
